@@ -1,0 +1,8 @@
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.red{
+    color: red;
+    text-shadow: 3px 3px 10px rgb(207, 76, 25);
+}
